@@ -3,7 +3,7 @@
 
  ### Screenshot
 
- 
+![Screenshot](https://raw.githubusercontent.com/jsanzdev/xcode-monokai-theme/main/xcode-monokai-screenshot.png?raw=true)
 
  # Installation
 
